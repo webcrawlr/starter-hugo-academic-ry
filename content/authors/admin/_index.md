@@ -6,7 +6,7 @@ bio: Graduate student in Computer Science at Purdue University.
 interests:
   - Artificial Intelligence
   - Computer Vision
-  - Cyber/Physical_Security
+  - Cyber/Physical Security
 social:
   - icon: envelope
     icon_pack: fas
