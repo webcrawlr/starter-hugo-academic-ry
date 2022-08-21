@@ -1,9 +1,9 @@
 ---
 widget: about
-widget_id: About Me
+widget_id: Biography
 headless: true
 weight: 20
-title: Biography
+title: About Me
 active: true
 author: admin
 ---
