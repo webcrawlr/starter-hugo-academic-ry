@@ -3,7 +3,7 @@ title: Physical Hijacking Attacks against Object Trackers
 publication_types:
   - "1"
 authors:
-  - Raymond Muller
+  - admin
   - Yanmao Man
   - Z. Berkay Celik
   - Ryan Gerdes
