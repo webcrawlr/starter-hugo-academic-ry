@@ -1,7 +1,7 @@
 ---
 title: Raymond Muller
 role: PhD Student
-avatar_filename: professionalphotocropped.png
+avatar_filename: avatar.png
 bio: Graduate student in Computer Science at Purdue University.
 interests:
   - Artificial Intelligence
