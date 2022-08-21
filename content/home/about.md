@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+I am a graduate student in Computer Science at Purdue University, pursuing a PhD degree under Dr. [Z. Berkay Celik](https://beerkay.github.io/).  I received my Master's and Bachelor's degree in Computer Science from California State University East Bay.  My research interests cover machine learning, computer vision, and security, as well as the intersection of those topics in domains such as autonomous vehicle security.
