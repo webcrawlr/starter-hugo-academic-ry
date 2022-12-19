@@ -1,5 +1,5 @@
 ---
-title: That Person Moves Like A Car: Misclassification Attack Detection for Autonomous Systems Using Spatiotemporal Consistency
+title: "That Person Moves Like A Car: Misclassification Attack Detection for Autonomous Systems Using Spatiotemporal Consistency"
 publication_types:
   - "1"
 authors:
