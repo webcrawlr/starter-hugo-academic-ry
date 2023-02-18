@@ -1,5 +1,5 @@
 ---
-title: Evaluating perception attacks on prediction and planning of autonomous vehicles
+title: "Evaluating perception attacks on prediction and planning of autonomous vehicles"
 publication_types:
   - "1"
 authors:
@@ -8,7 +8,7 @@ authors:
   - Ming Li
   - Z. Berkay Celik
   - "& Ryan Gerdes"
-publication: USENIX Security Symposium, Poster Session
+publication: USENIX Security Symposium Poster Session
 publication_short:USENIX Security
 draft: false
 featured: true
