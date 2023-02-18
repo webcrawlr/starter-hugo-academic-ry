@@ -47,7 +47,7 @@ publication_short: International Workshop on Automotive and Autonomous Vehicle
 url_source: ""
 url_video: ""
 title: "DriveTruth: Automated Autonomous Driving Dataset Generation for Security
-  Applications (Winner of General Motors AutoDriving Security Award"
+  Applications (Winner of General Motors AutoDriving Security Award)"
 doi: ""
 featured: false
 tags: []
