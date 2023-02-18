@@ -1,5 +1,5 @@
 ---
-title: Demo: Physically Hijacking Object Trackers
+title: "Demo: Physically Hijacking Object Trackers"
 publication_types:
   - "1"
 authors:
