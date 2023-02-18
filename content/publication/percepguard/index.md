@@ -8,8 +8,8 @@ authors:
   - Ming Li
   - Z. Berkay Celik
   - "& Ryan Gerdes"
-publication: USENIX
-publication_short: USENIX
+publication: USENIX Security Symposium
+publication_short: USENIX Security
 draft: false
 featured: true
 image:
