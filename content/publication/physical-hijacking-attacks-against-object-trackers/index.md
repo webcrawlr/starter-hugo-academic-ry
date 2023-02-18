@@ -8,8 +8,8 @@ authors:
   - Z. Berkay Celik
   - Ryan Gerdes
   - "& Ming Li"
-publication: ACM Conference on Computer and Communications Security
-publication_short: CCS
+publication: ACM SIGSAC Conference on Computer and Communications Security (CCS)
+publication_short: ACM Conference on Computer and Communications Security
 draft: false
 featured: true
 image:
