@@ -42,11 +42,12 @@ publication: International Workshop on Automotive and Autonomous Vehicle
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *AutoSec*
+publication_short: International Workshop on Automotive and Autonomous Vehicle
+  Security
 url_source: ""
 url_video: ""
 title: "DriveTruth: Automated Autonomous Driving Dataset Generation for Security
-  Applications"
+  Applications (Winner of General Motors AutoDriving Security Award"
 doi: ""
 featured: false
 tags: []
