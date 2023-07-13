@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.cs.purdue.edu/news/articles/2023/purdue-cs-graduate-student-secures-x-force-fellowship.html
+  - url: 'https://www.cs.purdue.edu/news/articles/2023/purdue-cs-graduate-student-secures-x-force-fellowship.html' 
     date_end: ''
     date_start: '2022-07-13'
     description: ''
     organization: Purdue University
     organization_url: https://www.cs.purdue.edu
     title: Purdue CS graduate student secures X-Force Fellowship
-    url: ''
+    
 
 design:
   columns: '2'
