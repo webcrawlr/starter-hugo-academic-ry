@@ -1,5 +1,5 @@
 ---
-title: VOGUES: Validation of Object Guise using Estimated Components
+title: "VOGUES: Validation of Object Guise using Estimated Components"
 publication_types:
   - "1"
 authors:
@@ -9,7 +9,6 @@ authors:
   - Ming Li
   - Jonathan Petit
   - "& Z. Berkay Celik"
-
 publication: USENIX Security
 publication_short: USENIX
 draft: false
