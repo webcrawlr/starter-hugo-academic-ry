@@ -36,7 +36,8 @@ I am a graduate student in Computer Science at Purdue University, pursuing a PhD
 
 
 My awards include:
-
+-  Selected for CPS Rising Stars 2024 <16.36% acceptance rate> (April 8th, 2024)
+-  Emil Stefanov Memorial Fellowship (April 8th, 2024)
 -  National Security Innovation Network X-Force Fellowship (June 5th, 2023)
 -  Purdue University Graduate Teaching Award (April 15th, 2023)
 -  ISOC Symposium on Vehicle Security and Privacy Best Demo Award Runner Up (February 27, 2023)
