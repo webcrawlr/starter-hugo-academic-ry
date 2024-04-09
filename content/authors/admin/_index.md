@@ -44,4 +44,4 @@ My awards include:
 -  ISOC Symposium on Vehicle Security and Privacy Travel Grant Awardee (2023)
 -  General Motors Security AutoDriving Security Award (April 24, 2022)
 
-[View my FULL CV here.](assets/media/raymond_muller_cv.pdf)
+[View my FULL CV here.](https://raymond-muller.netlify.app/uploads/resume.pdf)
