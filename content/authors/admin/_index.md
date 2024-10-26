@@ -37,7 +37,7 @@ I am a graduate student in Computer Science at Purdue University, pursuing a PhD
 
 My awards include:
 -  Student Advisory Council Member, NSF AI Institute for Agent-based Cyber Threat Intelligence and Operation (ACTION) 2024-2025
--  Selected for CPS Rising Stars 2024 (16.36% acceptance rate, April 8th, 2024)
+-  PhD Candidate Presenter at the Center of Academic Excellence in Cyber Research (CAE-R 2024)
 -  Selected for CPS Rising Stars 2024 (16.36% acceptance rate, April 8th, 2024)
 -  Emil Stefanov Memorial Fellowship (April 8th, 2024)
 -  National Security Innovation Network X-Force Fellowship (June 5th, 2023)
