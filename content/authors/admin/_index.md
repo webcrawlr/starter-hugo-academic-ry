@@ -32,7 +32,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a graduate student in Computer Science at Purdue University, pursuing a PhD degree under Dr. [Z. Berkay Celik](https://beerkay.github.io/).  I received my Master's and Bachelor's degree in Computer Science from California State University East Bay.  My research interests cover machine learning, computer vision, and security, focusing on their intersection in the security in perception for autonomous systems.
+I am a PhD Candidate in Computer Science at Purdue University, pursuing a my degree under Dr. [Z. Berkay Celik](https://beerkay.github.io/).  I received my Master's and Bachelor's degree in Computer Science from California State University East Bay.  My research interests cover machine learning, computer vision, and security, focusing on their intersection in the security in perception for autonomous systems.
 
 
 My awards include:
