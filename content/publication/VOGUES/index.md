@@ -9,8 +9,8 @@ authors:
   - Ming Li
   - Jonathan Petit
   - "& Z. Berkay Celik"
-publication: USENIX Security
-publication_short: USENIX
+publication: USENIX Security Symposium
+publication_short: USENIX Security Symposium
 draft: false
 featured: true
 image:
