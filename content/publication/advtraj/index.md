@@ -11,7 +11,7 @@ authors:
   - Ryan Gerdes
   - "& Jonathan Petit"
 publication: Proceedings of the 40th Annual Computer Security Applications Conference.
-publication_short: Annual Computer Security Applications Conference 2025
+publication_short: Annual Computer Security Applications Conference (ACSAC)
 draft: false
 featured: true
 image:
