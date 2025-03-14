@@ -25,6 +25,9 @@ organizations:
     url: https://www.purdue.edu/
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: Purdue University
+      year: 2025
     - course: MSc in Computer Science
       institution: CalState East Bay
       year: 2018
