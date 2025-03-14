@@ -14,6 +14,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/webcrawlr
+  - icon: graduation-cap
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=BqtB1oYAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/raymondmuller/
