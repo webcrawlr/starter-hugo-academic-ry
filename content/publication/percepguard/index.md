@@ -9,7 +9,7 @@ authors:
   - Z. Berkay Celik
   - "& Ryan Gerdes"
 publication: USENIX Security Symposium
-publication_short: USENIX Security
+publication_short: USENIX Security Symposium
 draft: false
 featured: true
 image:
