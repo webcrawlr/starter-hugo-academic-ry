@@ -9,8 +9,8 @@ authors:
   - admin
   - Z. Berkay Celik
   - "& Antonio Bianchi"
-publication: USENIX Security
-publication_short: USENIX
+publication: USENIX Security Symposium
+publication_short: USENIX Security Symposium
 draft: false
 featured: true
 image:
