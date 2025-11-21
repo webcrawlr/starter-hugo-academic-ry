@@ -1,8 +1,8 @@
 ---
 title: Raymond Muller
-role: PhD Graduand
+role: Signal and Image Processing Engineer
 avatar_filename: avatar.png
-bio: Graduate student in Computer Science at Purdue University.
+bio: Signal and Image Processing Engineer at Lawrence Livermore National Laboratory.
 interests:
   - Artificial Intelligence
   - Computer Vision
@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:mullerr@purdue.edu
+    link: mailto:muller15@llnl.gov
   - icon: github
     icon_pack: fab
     link: https://github.com/webcrawlr
@@ -21,8 +21,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/raymondmuller/
 organizations:
-  - name: Purdue University
-    url: https://www.purdue.edu/
+  - name: Lawrence Livermore National Laboratory
+    url: https://www.llnl.gov/
 education:
   courses:
     - course: PhD in Computer Science
@@ -38,7 +38,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a PhD graduand in Computer Science at Purdue University, pursuing a my degree under Dr. [Z. Berkay Celik](https://beerkay.github.io/).  I received my Master's and Bachelor's degree in Computer Science from California State University East Bay.  My research interests cover machine learning, computer vision, and security, focusing on their intersection in the security in perception for autonomous systems.
+I am a Signal and Image Processing Engineer at Lawrence Livermore National Laboratory, currently working on computer vision projects for defense applications.  I received my PhD in Computer Science from Purdue University under Dr. [Z. Berkay Celik](https://beerkay.github.io/).  I received my Master's and Bachelor's degree in Computer Science from California State University East Bay.  My research interests cover machine learning, computer vision, and security, focusing on their intersection in the security in perception for autonomous systems.
 
 
 My awards include:
